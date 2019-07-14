@@ -1,8 +1,8 @@
-### Simple App (create server with GraphQL and express-graphql)
+## Simple App (create server with GraphQL and express-graphql)
 
-## first step colne project from github
+# first step colne project from github
 
-## npm i 
+# npm i 
 
-## run graphql server with npm run dev:server
-## run json server with npm run json:server
+# run graphql server with npm run dev:server
+# run json server with npm run json:server
